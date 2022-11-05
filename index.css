@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    
+}
+body{
+    background-color: white;
+}
+.container{
+    height: 100%;
+    width: 100%;
+
+}
+.kk{
+    position: absolute;
+    margin-top: 15% ;
+    margin-left: 75%;
+    font-size: 100px;
+
+}
+.year{
+    position: absolute;
+   margin-top: 22%;
+    margin-left: 70%;
+    font-size: 60px;
+}
+.container img{
+    height: fit-content;
+
+}
+.kkimg{
+    height: 850px;
+    width: 100%;
+}
+.hits{
+    text-decoration: underline;
+    font-size: 50px;
+}
+table{
+    margin: 40px 0px;
+    width: 800px;
+    border-radius: 50px;
+    
+}
+
+table th{
+    font-size: 30px;
+    border-bottom: 2px solid #111;
+    height: 75px;
+}
+table tr{
+    border-bottom: 1px solid #ddd;
+}
+table td{
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 1px solid #ddd;
+}
+.remember{
+    background-color: black;
+    
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.remember img{
+   width: 100%;
+}
